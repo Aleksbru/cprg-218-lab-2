@@ -114,3 +114,24 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Pumpkin pie
+
+Ingredients:
+- 1 can pumpkin puree
+- 1 can Eagle Brand Sweetened Condensed Milk
+- 2 large eggs
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon ground ginger
+- 1/2 teaspoon ground nutmeg
+- 1/2 teaspoon salt
+- 1 unbaked pie crust
+
+Instructions:
+1. Gather all ingredients and preheat the oven to 425 degrees F (220 degrees C).
+2. Whisk pumpkin puree, condensed milk, eggs, cinnamon, ginger, nutmeg, and salt together in a medium bowl until smooth.
+3. Pour into crust.
+4. Bake in the preheated oven for 15 minutes.
+5. Reduce oven temperature to 350 degrees F (175 degrees C) 
+6. Continue baking until a knife inserted 1 inch from the crust comes out clean, 35 to 40 minutes. 
+7. Let cool before serving.
